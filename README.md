@@ -13,6 +13,6 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Ghanbari77&show_icons=true&hide_border=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanbari77&layout=compact&langs_count=10&hide_border=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Ghanbari77&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanbari77&layout=compact&langs_count=10&hide_border=true"/>
 </p>
