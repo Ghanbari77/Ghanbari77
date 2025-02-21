@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Ghanbari77/Ghanbari77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm <a href="https://www.linkedin.com/in/qanbarii-mohammad/" target="_blank">Mohammad Ghanbari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/moein007/](https://www.linkedin.com/in/qanbarii-mohammad/))
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/qanbari_mohammad)
+</div>
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Ghanbari77&show_icons=true&hide_border=true" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanbari77&layout=compact&langs_count=10&hide_border=true"/>
+</p>
